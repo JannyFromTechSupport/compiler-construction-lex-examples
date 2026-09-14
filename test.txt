@@ -1,0 +1,6 @@
+int age = 20;
+float salary = 50000;
+
+if (age > 18) {
+	salary = salary + 1000;
+}
