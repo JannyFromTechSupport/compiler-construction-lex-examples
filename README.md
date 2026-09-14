@@ -148,17 +148,17 @@ For the fourth example, ensure that `test.txt` is in the same directory as the e
 
 ```text
 .
-├── scanner.l
-├── scanner
+├── README.md
 ├── lex.yy.c
-├── scanner2.l
+├── scanner
+├── scanner.l
 ├── scanner2
-├── scanner3.l
+├── scanner2.l
 ├── scanner3
-├── scanner4.l
+├── scanner3.l
 ├── scanner4
-├── text.txt
-└── README.md
+├── scanner4.l
+└── test.txt
 ```
 
 ## Learning Outcomes
