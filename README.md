@@ -10,6 +10,8 @@ This repository contains practical exercises on **lexical analysis using Flex (L
 | Kemoi Kristina Chebet    | 168652        |
 | Mapelu Neema Naserian    | 150176        | 
 
+**NB: All code for these exercises can be found in the `Lex tool Examples.pdf` file.**
+
 ## Exercises 
 
 ### Example 1: Integers and Identifiers 
@@ -148,6 +150,7 @@ For the fourth example, ensure that `test.txt` is in the same directory as the e
 
 ```text
 .
+├── Lex tool Examples.pdf
 ├── README.md
 ├── lex.yy.c
 ├── scanner
